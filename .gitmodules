@@ -1,0 +1,13 @@
+[submodule "nerdtree"]
+    path = bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree.git
+
+[submodule "python-mode"]
+    path = bundle/python-mode
+    url = https://github.com/klen/python-mode.git
+[submodule "vim-arduino-syntax"]
+    path = bundle/vim-arduino-syntax
+    url = https://github.com/sudar/vim-arduino-syntax.git
+[submodule "vim-snippets"]
+    path = bundle/vim-snippets
+    url = https://github.com/switch87/vim-snippets.git
