@@ -60,3 +60,6 @@ set number
 set relativenumber
 set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
 set laststatus=2 statusline+=%F
+
+" filetypes
+"au BufNewFile,BufRead *.html set filetype=htmldjango    " use django not html
